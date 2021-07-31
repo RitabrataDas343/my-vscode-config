@@ -1,2 +1,3 @@
-# my-linux-config
-Linux Mint 20.1 config files for customiztion
+# my-vscode-config
+
+My VSCODE configuration files 
