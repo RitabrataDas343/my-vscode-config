@@ -1,0 +1,19 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.languageServer": "Pylance",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 1,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "editor.fontFamily": "Consolas, monospace",
+    "editor.fontWeight": "bold",
+    "workbench.colorTheme": "Cyberpunk"
+}
