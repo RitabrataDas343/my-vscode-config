@@ -1,4 +1,5 @@
 # my-vscode-config
 
 Ctrl + Shift + P 
-Open Settings.Json
+<br>Open Settings.Json
+
